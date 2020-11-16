@@ -4,9 +4,10 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=pawanjs&label=Profile%20views&color=0e75b6&style=flat" alt="pawanjs" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=pawanjs" alt="pawanjs" /></a> </p>
-<img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/2646423/screenshots/5507196/computer.gif">
 
 - 🌱 Currently I'm learning **JavaScript**
+
+- 👨‍💻 Checkout my projects [https://github.com/PawanJS?tab=repositories](https://github.com/PawanJS?tab=repositories)
 
 - 💬 Ask me about **HTML CSS & SASS**
 
