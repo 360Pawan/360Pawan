@@ -1,4 +1,4 @@
-<img src="https://static.dribbble.com/users/730703/screenshots/6581243/avento.gif">
+<img src="https://static.dribbble.com/users/730703/screenshots/6581243/avento.gif" alighn ="Center" alt ="Persoon typing code">
 
 <h1 align="center">Hi 👋, I'm Pawan</h1>
 <h3 align="center">A self-taught who is learning web development currently</h3>
