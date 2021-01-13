@@ -15,7 +15,7 @@
 
 - 📫 Reach me at **contactpawanjs@gmail.com**
 
-- ⚡ Fun fact **I think I am funny SOMETIMES!🤣**
+- ⚡ Fun fact **Computers are fast; programmers keep it slow.🤣**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
