@@ -25,7 +25,7 @@
 <a href="https://fb.com/developerpawanjs" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg" alt="developerpawanjs" height="30" width="40" /></a>
 <a href="https://instagram.com/pawan.js_/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="pawan.js_/" height="30" width="40" /></a>
 </p>
-<h3 align="left">Languages:</h3>
+<h3 align="left">Languages (Web stack):</h3>
     <p align="left">
       <a href="https://www.w3.org/html/" target="_blank">
         <img
@@ -62,7 +62,10 @@
           height="40"
         />
       </a>
-      <a href="https://www.cprogramming.com/" target="_blank">
+     </p>
+     <h3 align="left">Other languages:</h3>
+    <p align="left">
+    <a href="https://www.cprogramming.com/" target="_blank">
         <img
           src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg"
           alt="c"
@@ -70,7 +73,7 @@
           height="40"
         />
       </a>
-    </p>
+         </p>
     <h3 align="left">Frameworks:</h3>
     <p align="left">
       <a href="https://getbootstrap.com" target="_blank">
