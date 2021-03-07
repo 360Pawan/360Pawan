@@ -22,8 +22,6 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/developerpawanjs/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="developerpawanjs/" height="30" width="40" /></a>
-<a href="https://fb.com/developerpawanjs" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg" alt="developerpawanjs" height="30" width="40" /></a>
-<a href="https://instagram.com/pawan.js_/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="pawan.js_/" height="30" width="40" /></a>
 </p>
 <h3 align="left">Languages (Web stack):</h3>
     <p align="left">
