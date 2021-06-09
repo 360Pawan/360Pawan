@@ -11,9 +11,9 @@
 
 - 👨‍💻 Checkout my projects [https://github.com/PawanJS?tab=repositories](https://github.com/PawanJS?tab=repositories)
 
-- 💬 Ask me about **HTML CSS & SASS**
+- 💬 Ask me about **HTML SASS and JS**
 
-- 📫 Reach me at **contactpawanjs@gmail.com**
+- 📫 Reach me at **www.pawanjs.xyz/#contact**
 
 - ⚡ Fun fact **Computers are fast; programmers keep it slow.🤣**
 
@@ -21,9 +21,8 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/developerpawanjs/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="developerpawanjs/" height="30" width="40" /></a>
-    <a href="https://pawanjs.xyz" target="blank"><img align="center" src="https://raw.githubusercontent.com/PawanJS/pawanJsPortfolio/master/images/Logo.png" alt="developerpawanjs/" height="30" width="80" /></a>
-</p>
+<a href="www.pawanjs.xyz/#contact" target="blank">Click here</a>
+ </p>
 <h3 align="left">Languages (Web stack):</h3>
     <p align="left">
       <a href="https://www.w3.org/html/" target="_blank">
