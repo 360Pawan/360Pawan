@@ -7,7 +7,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=pawanjs" alt="pawanjs" /></a> </p>
 
-- 🌱 Currently I'm learning **JavaScript**
+- 🌱 Currently I'm learning **React**
 
 - 👨‍💻 Checkout my projects [https://github.com/PawanJS?tab=repositories](https://github.com/PawanJS?tab=repositories)
 
