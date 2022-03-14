@@ -19,9 +19,9 @@
 
 - 💬 Ask me about **html,CSS,JavaScript,react,WebPack,Gatsby**
 
-- 📫 How to reach me **https://www.pawanjs.xyz/#contact**
+- 📫 How to reach me **https://www.pawanjs.com/contact**
 
-- 📄 Know about my experiences [https://www.pawanjs.xyz/download/Pawan's%20Resume.pdf](https://www.pawanjs.xyz/download/Pawan's%20Resume.pdf)
+- 📄 Know about my experiences [https://www.pawanjs.com/download/Pawan's%20Resume.pdf](https://www.pawanjs.com/download/Pawan's%20Resume.pdf)
 
 - ⚡ Fun fact **Computers are fast programmers keep it slow!**
 
