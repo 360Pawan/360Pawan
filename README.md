@@ -7,7 +7,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=pawanjs" alt="pawanjs" /></a> </p>
 
-- 🔭 I’m currently working on [Hester](https://github.com/PawanJS/Hester)
+- 🔭 I’m currently working on [Beaver Brothers](https://github.com/PawanJS/beaver_brothers)
 
 - 🌱 I’m currently learning **React**
 
