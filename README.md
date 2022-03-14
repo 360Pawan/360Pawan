@@ -21,7 +21,7 @@
 
 - 📫 How to reach me **https://www.pawanjs.com/contact**
 
-- 📄 Know about my experiences [https://www.pawanjs.com/download/Pawan's%20Resume.pdf](https://www.pawanjs.com/download/Pawan's%20Resume.pdf)
+- 📄 Know about my experiences [here](https://www.pawanjs.com/resume/)
 
 - ⚡ Fun fact **Computers are fast programmers keep it slow!**
 
