@@ -1,7 +1,7 @@
 <img src="https://static.dribbble.com/users/730703/screenshots/6581243/avento.gif" align ="Center" alt ="Persoon typing code">
 
 <h1 align="center">Hi 👋, I'm Pawan</h1>
-<h3 align="center">A self taught fronted developer from India</h3>
+<h3 align="center">A self taught developer from India</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=pawanjs&label=Profile%20views&color=0e75b6&style=flat" alt="pawanjs" /> </p>
 
