@@ -12,7 +12,7 @@
 
 
 ### Glad to see you here! Let's know something about me!  
-🚀 Quirky React Developer with a knack for making code as enjoyable as a carnival ride! I excel in the art of React JS, Redux, Next.js, Node.js, and MongoDB, transforming complex tasks into a delightful adventure. My superpower? Crafting robust and scalable applications that bring smiles to users' faces. 
+🚀 Quirky React Developer with a knack for making code as enjoyable as a carnival ride! I excel in the art of React JS, Redux, Next.js, Node.js, and MongoDB, transforming complex tasks into a delightful adventure. My superpower? Crafting robust and scalable applications that bring smiles to user's faces. 
 
 🌮 When I'm not coding, I'm busy juggling tacos and debugging with one hand tied behind my back. I'm always hungry for the latest tech trends, devouring new libraries like a programmer with an insatiable appetite. 
 
