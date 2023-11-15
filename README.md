@@ -1,7 +1,7 @@
 ## Hey 👋, I'm Pawan  
   
 
-<a href="https://github.com/pawanjs" target="_blank">
+<a href="https://github.com/bypawan" target="_blank">
 <img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
 </a>
 <a href="https://in.linkedin.com/in/bypawan" target="_blank">
@@ -31,7 +31,7 @@
 ## Rapidfire  
 <table><tr><td valign="top" width="50%">
 
-- 🔭 I’m currently working on [Monumental](https://github.com/pawanjs/monumental)  
+- 🔭 I’m currently working on [Monumental](https://github.com/bypawan/monumental)  
   
 
 - 🌱 I’m currently learning IOS and React Native  
@@ -72,11 +72,11 @@
 ## Github Stats  
 <table><tr><td valign="top" width="50%">
 
-<img src="https://github-readme-stats.vercel.app/api?username=pawanjs&show_icons=true&count_private=true&hide_border=true" align="left" style="width: 100%" />
+<img src="https://github-readme-stats.vercel.app/api?username=bypawan&show_icons=true&count_private=true&hide_border=true" align="left" style="width: 100%" />
 
 </td><td valign="top" width="50%">
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=pawanjs&hide_border=true&layout=compact" align="left" style="width: 100%" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=bypawan&hide_border=true&layout=compact" align="left" style="width: 100%" />
 
 </td></tr></table>  
 
