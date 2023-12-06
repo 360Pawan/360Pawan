@@ -6,7 +6,7 @@
 
 ### Glad to see you here! Let's know something about me!  
 
-👋 Hello, I'm Pawan, a passionate software enthusiast exploring the vast realms of the React ecosystem. As a budding developer, I've honed my skills in both React and React Native, navigating the world of web and mobile application development.
+👋 I'm a passionate software enthusiast exploring the vast realms of the React ecosystem. As a budding developer, I've honed my skills in both React and React Native, navigating the world of web and mobile application development.
 
 🌐 My journey extends beyond front-end technologies, as I've delved into Node.js and Express, gaining insights into server-side development. MongoDB has also been part of my toolkit, allowing me to handle data with finesse.
 
