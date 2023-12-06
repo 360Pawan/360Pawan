@@ -12,19 +12,17 @@
 
 
 ### Glad to see you here! Let's know something about me!  
-👋 Hi there, I'm Pawan, a passionate app developer with more than 2 years of experience. My journey started in web design and has since evolved into a broader exploration of app development.
+👋 Hi there, I'm Pawan, a passionate web developer with over 2 years of experience in crafting exceptional web solutions. My journey started in web design, and it has evolved into a specialized focus on React JS for web development.
 
-📱 I have a strong background in app creation, with a significant focus on React Native. My app development journey includes conceiving and launching multiple apps on the Play Store. These experiences demonstrate my ability to design and develop user-friendly and efficient mobile solutions.
+💻 I excel in React JS, using it to create responsive, efficient, and user-friendly web applications. Additionally, I bring a versatile skill set to the table, encompassing backend technologies such as Node.js and MongoDB with Express. This ensures that I can deliver end-to-end solutions, seamlessly integrating both the front and back ends of web development.
 
-🚀 While I excel in React Native, my interests have shifted towards iOS app development. I'm currently deeply engaged in iOS app development training, broadening my horizons and expanding my contributions to a wider range of app projects.
+🚀 While my expertise lies in web development, I'm also on a continuous learning journey, expanding my horizons to include iOS app development. My commitment to staying updated with the latest technologies demonstrates my dedication to providing innovative solutions for clients.
 
-💻 My proficiency isn't limited to the front end; I'm also well-versed in backend services like Firebase, Supabase, and Appwrite. This end-to-end knowledge enables me to craft comprehensive and seamless solutions for clients, encompassing the entire app development process.
+🎨 Beyond my technical skills, I have a creative side that extends to digital art. This unique combination allows me to bring a fresh perspective to web development projects, ensuring not only functionality but also visual appeal.
 
-🎨 My creative passion extends beyond development; I'm equally enthusiastic about digital art. This fusion of technical and artistic skills allows me to offer a unique dimension to my work, ensuring that the applications I build are not only functional but also visually captivating.
+🔍 Proficient in backend services like Firebase, Node.js, and MongoDB with Express, I can create comprehensive and seamless web solutions tailored to your needs.
 
-🔍 While I specialize in React Native, my love for app development as a whole keeps me excited about every project I undertake. My commitment to innovation, adaptability, and my ongoing training in iOS development make me an ideal candidate for a variety of engaging app projects.
-
-😃 My track record of successful projects and satisfied clients reflects my dedication to delivering high-quality software solutions. If you're seeking a versatile app developer with expertise in React Native and a growing focus on iOS development, I'm here to collaborate and bring your app ideas to life!
+😃 My track record includes successful web development projects and satisfied clients, showcasing my dedication to delivering top-notch software solutions. If you're looking for a versatile web developer with expertise in React JS, backend technologies, and a commitment to continuous learning, I'm here to collaborate and bring your web ideas to life!
 
 <br/>  
 
