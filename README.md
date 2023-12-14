@@ -6,6 +6,6 @@
 
 ### Glad to see you here! Let's know something about me!  
 
-👋 Hey there! I'm an enthusiastic front-end developer currently working with React for web applications. My toolkit includes HTML, CSS, JavaScript, and Firebase. I'm dedicated to crafting engaging and user-friendly interfaces. Join me on this exciting journey as I continue to learn, create, and make a mark in the dynamic world of front-end development! 🚀
+👋 Hey there! I'm an enthusiastic developer and problem solver currently working with React for web applications. My toolkit includes HTML, CSS, JavaScript, and Firebase. I'm dedicated to crafting engaging and user-friendly interfaces. Join me on this exciting journey as I continue to learn, create, and make a mark in the dynamic world of development! 🚀
 
 <br/> 
