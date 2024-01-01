@@ -6,8 +6,6 @@
 
 ### Glad to see you here! Let's know something about me!  
 
-Absolutely, let's strike a balance between showcasing your technical skills and highlighting your user-focused approach:
-
 🚀 As a product engineer, I'm not just in the business of coding; I'm on a mission to solve real-world problems through technology. My toolkit includes the precision of HTML/CSS for crafting intuitive interfaces and the robustness of the MERN stack (MongoDB, Express.js, React, Node.js) for architecting scalable solutions.
 
 🛠️ What sets me apart is my flexibility—technology is a means to an end, and I'm well-versed in choosing the right tools for the job. Whether it's navigating the MERN stack or exploring other frameworks, my focus remains on delivering products that address user needs effectively.
