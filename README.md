@@ -1,1 +1,1 @@
-I build cool shit and put server on fire 🔥🔥🔥🔥🔥
+I build cool shit and put servers on fire 🔥🔥🔥🔥🔥
